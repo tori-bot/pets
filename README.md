@@ -13,7 +13,8 @@ there are no known bugs in this project. if you encounter any bugs please report
 ## Technologies Used
 this site is fully written with HTML. in future i will add other cool technologies like css and javascript.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+  if you run into any issues don't hesitate to list it as an issue. 
+  if you wish to contribute to this site feel free to fork this repo and push your contributions via the 'contributions' branch.
 ### License
-*{this site is under the MIT license.  See here for more details.}*
-Copyright (c) {2022} **victoria makena}**
+*this site is under the MIT license.  See here for more details.*
+Copyright (c) 2022 **victoria makena**
