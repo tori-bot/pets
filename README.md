@@ -1,5 +1,6 @@
-# pets
-####pets i have had over the years. created 22nd february 2022
+# PETS
+#### pets i have had over the years
+#### created 22nd february 2022
 #### By **victoria makena**
 ## Description
 this site is to display my pets andother people's pets as well.here we tell stories about how we met our pets, how we feed them and the activities we do with them.
